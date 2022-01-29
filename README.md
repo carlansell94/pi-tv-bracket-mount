@@ -3,10 +3,14 @@ This mount is designed to slot onto a wall mounted TV bracket.
 Two designs are available:
 * **pi_tv_mount_single** - Provides mounting holes for a single Pi
 * **pi_tv_mount_double** - Provides mounting holes for 2 Pi's, the second positioned below the first
+* **pi_tv_mount_single_extended** - Same as the single version, but with an extra 2cm of clearance between the clips and the Pi.
+* **pi_tv_mount_double_extended** - Same as the double version, but with an extra 2cm of clearance between the clips and the top Pi.
 
-It allows the Pi to be tucked behind a TV, while maintaining accessibility through the slotted clip design. To access the Pi, simply slide the mount off the TV bracket. In addition, a test clip is provided. This clip is exactly the same as the two included on the full design, and is provided to allow a test fit on your TV bracket without having to print the entire design.  
+It allows the Pi to be tucked behind a TV, while maintaining accessibility through the slotted clip design. To access the Pi, simply slide the mount off the TV bracket. It can also be used with other boards that share the Pi footprint. The mounting holes are designed for use with 2.5mm diameter screws.
 
-The design is also suitable for other boards using the Pi footprint.  
+The design can be quite tight if you need to plug cabled (HDMI in particular) into the Pi. The two extended versions add an extra 2cm of clearance to overcome this.
+
+In addition, a test clip is provided. This clip is exactly the same as the two included on each full design, and is provided to allow a test fit on your TV bracket without having to print the entire design.   
 
 STL files are provided for direct slicing, with the original Blender files also included should you wish to make modifications to the design.  
 
